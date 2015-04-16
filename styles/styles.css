@@ -100,7 +100,7 @@ a:hover, a:active{
 		-moz-border-radius:5px;
 		-webkit-border-radius:5px;
 		margin:2% 0 2% 3%;
-		padding: 2% 3%;	
+		padding: 2% 3%;
 }
 .middle-sidebar{
 	float:left;
@@ -177,7 +177,7 @@ a:hover, a:active{
 		height:20px;
 		display:block;
 	}
-	
+
 	.content{
 		width:100%;
 		float:left;
@@ -199,12 +199,12 @@ a:hover, a:active{
 		margin-top:4%;
 	}
 	.top-sidebar, .middle-sidebar, .bottom-sidebar{
-		width:94%;	
+		width:94%;
 		background-color:#fff;
 		border-radius:5px;
 		-moz-border-radius:5px;
 		-webkit-border-radius:5px;
 		margin:2% 0 2% 0%;
-		padding: 2% 3%;	
+		padding: 2% 3%;
 	}
 }
