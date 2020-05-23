@@ -1,4 +1,4 @@
-# srichatala_profile
+# Profile
 
 ## Project setup
 ```
@@ -29,6 +29,3 @@ yarn test:e2e
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
